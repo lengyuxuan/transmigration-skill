@@ -103,10 +103,6 @@ git clone https://github.com/lengyuxuan/transmigration-skill
 
 ---
 
-## 📦 安装（给 AI 助手用）
-
----
-
 ## 🌈 最后
 
 有人问：为什么要做这个？  
