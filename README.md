@@ -54,6 +54,17 @@
 你只能选择坐在哪节车厢，看哪一侧的风景。
 
 ---
+## 🕹️ 安装
+
+```
+# openclaw 或 hermes 等，可以直接对它说：
+帮我安装 https://github.com/lengyuxuan/transmigration-skill
+
+# 手动安装
+cd xxx/skills
+git clone https://github.com/lengyuxuan/transmigration-skill
+```
+---
 
 ## 🕹️ 怎么玩
 
